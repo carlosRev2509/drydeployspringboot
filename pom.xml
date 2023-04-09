@@ -19,7 +19,7 @@
     <properties>
         <java.version>11</java.version>
         <springfox.version>3.0.0</springfox.version>
-        <lombok.version>1.18.18</lombok.version>
+        <lombok.version>1.18.24</lombok.version>
         <mysql.version>8.0.31</mysql.version>
     </properties>
 
